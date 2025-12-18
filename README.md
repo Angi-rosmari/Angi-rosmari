@@ -21,7 +21,7 @@ JavaScript | TypeScript | Node.js | React | Next.js
 
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
 
-![Polish](https://img.shields.io/badge/Polish-A2-lightgrey?style=flat-square)
+![German](https://img.shields.io/badge/German-B2-lightgrey?style=flat-square)
 
 
 📫 How to reach me:  
