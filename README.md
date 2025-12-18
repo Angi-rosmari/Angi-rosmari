@@ -11,7 +11,7 @@ JavaScript | TypeScript | Node.js | React | Next.js
 
 💻Featured Projects  
 
-- [Resume Project]((https://dubovko-olga.github.io/goit-js-hw-team-project/)) – a responsive landing page for an ice cream brand developed in a team, with a focus on responsive design and semantic HTML. Built using HTML5, CSS3 (SASS), and JavaScript, following the BEM methodology.
+- [Resume Project]((https://angi-rosmari.github.io/my-first-project/)) – a responsive landing page for an ice cream brand developed in a team, with a focus on responsive design and semantic HTML. Built using HTML5, CSS3 (SASS), and JavaScript, following the BEM methodology.
   
 - [Eco-Tote]((https://dubovko-olga.github.io/first-joint-project-01/)) – Light aversome site - handbag sales landing page (frontend only). First student team project (team role - team lead). HTML/CSS, Flexbox, adaptive.
 
